@@ -1,0 +1,5 @@
+{
+  "name": "VoxelCraft JS",
+  "description": "A high-performance Minecraft clone built with Three.js, featuring infinite procedural terrain, first-person controls, and block building mechanics.",
+  "requestFramePermissions": []
+}
